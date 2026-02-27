@@ -1,0 +1,2 @@
+# This project is implemented with Node.js workspaces (backend + frontend).
+# Python dependencies are not required.
